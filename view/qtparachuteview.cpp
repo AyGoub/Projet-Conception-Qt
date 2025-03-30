@@ -1,4 +1,3 @@
-// QtParachuteView.cpp
 #include "qtparachuteview.h"
 #include <QPolygonF>
 #include <QGraphicsPolygonItem>

@@ -1,4 +1,3 @@
-// BinaryView.cpp
 #include "binaryview.h"
 #include <QPainter>
 #include <QResizeEvent>

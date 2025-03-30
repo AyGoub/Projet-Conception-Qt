@@ -1,4 +1,3 @@
-// BinaryView.h
 #pragma once
 #include <QWidget>
 #include <QColor>
