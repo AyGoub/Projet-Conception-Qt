@@ -1,0 +1,7 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <file>translations/parachute_fr.qm</file>
+        <file>images/parachute_icon.svg</file>
+    </qresource>
+</RCC> 

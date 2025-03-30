@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <!-- Fond transparent -->
+  <rect width="256" height="256" fill="none"/>
+  
+  <!-- Parachute -->
+  <circle cx="128" cy="96" r="80" fill="#FFFFFF" stroke="#000000" stroke-width="4"/>
+  
+  <!-- Lignes du parachute -->
+  <line x1="128" y1="96" x2="78" y2="200" stroke="#000000" stroke-width="2"/>
+  <line x1="128" y1="96" x2="108" y2="200" stroke="#000000" stroke-width="2"/>
+  <line x1="128" y1="96" x2="148" y2="200" stroke="#000000" stroke-width="2"/>
+  <line x1="128" y1="96" x2="178" y2="200" stroke="#000000" stroke-width="2"/>
+  
+  <!-- Points (bits) -->
+  <circle cx="88" cy="76" r="8" fill="#FF0000"/>
+  <circle cx="108" cy="56" r="8" fill="#888888"/>
+  <circle cx="148" cy="56" r="8" fill="#FF0000"/>
+  <circle cx="168" cy="76" r="8" fill="#888888"/>
+  <circle cx="168" cy="116" r="8" fill="#FF0000"/>
+  <circle cx="148" cy="136" r="8" fill="#888888"/>
+  <circle cx="108" cy="136" r="8" fill="#FF0000"/>
+  <circle cx="88" cy="116" r="8" fill="#888888"/>
+  
+  <!-- Nacelle -->
+  <rect x="108" y="200" width="40" height="20" rx="5" ry="5" fill="#DDDDDD" stroke="#000000" stroke-width="2"/>
+</svg> 
