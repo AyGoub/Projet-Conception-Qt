@@ -108,7 +108,7 @@ Projet-Conception/
 
 ```bash
 # Clone the repository
-git clone https://github.com/AyGoub/Projet-Conception
+git clone https://github.com/AyGoub/Projet-Conception-Qt.git
 cd Projet-Conception
 
 # Configure and build
